@@ -1,0 +1,52 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\Debug\AP2_.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AP2_.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AP2_.map</FILE>
+  <FILE>AP2_.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <TABELA_ASCII_15_CARACTERES><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>118</LINE></TABELA_ASCII_15_CARACTERES>
+  <FRASE_USUARIO><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>122</LINE></FRASE_USUARIO>
+  <TABELA_SAIDA_DADOS><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>126</LINE></TABELA_SAIDA_DADOS>
+  <RESET_HANDLER><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>148</LINE></RESET_HANDLER>
+  <TABELA_ASCII_FLASH><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>142</LINE></TABELA_ASCII_FLASH>
+  <FRASE_USUARIO_FLASH><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>145</LINE></FRASE_USUARIO_FLASH>
+  <COPIA_ASCII_LOOP><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>165</LINE></COPIA_ASCII_LOOP>
+  <FIM_COPIA_ASCII><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>174</LINE></FIM_COPIA_ASCII>
+  <COPIA_FRASE_LOOP><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>182</LINE></COPIA_FRASE_LOOP>
+  <FIM_COPIA_FRASE><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>189</LINE></FIM_COPIA_FRASE>
+  <PROCESSA_FRASE><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>211</LINE></PROCESSA_FRASE>
+  <END_PROGRAM><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>199</LINE></END_PROGRAM>
+  <PROXIMO_CARACTERE_FRASE><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>216</LINE></PROXIMO_CARACTERE_FRASE>
+  <FIM_PROCESSA_FRASE><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>237</LINE></FIM_PROCESSA_FRASE>
+  <VERIFICA_NA_TABELA_INICIAL><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>249</LINE></VERIFICA_NA_TABELA_INICIAL>
+  <ATUALIZA_TABELA_SAIDA><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>298</LINE></ATUALIZA_TABELA_SAIDA>
+  <VT_LOOP_CMP><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>265</LINE></VT_LOOP_CMP>
+  <VT_CONTINUA_LOOP><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>278</LINE></VT_CONTINUA_LOOP>
+  <VT_FIM_VERIFICACAO><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>282</LINE></VT_FIM_VERIFICACAO>
+  <ATS_ADICIONA_NOVA_ENTRADA><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>336</LINE></ATS_ADICIONA_NOVA_ENTRADA>
+  <ATS_LOOP_BUSCA><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>313</LINE></ATS_LOOP_BUSCA>
+  <ATS_PROXIMA_ENTRADA_BUSCA><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>328</LINE></ATS_PROXIMA_ENTRADA_BUSCA>
+  <ATS_FIM_ATUALIZACAO><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>380</LINE></ATS_FIM_ATUALIZACAO>
+  <ATS_SKIP_MULT_OFFSET><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>354</LINE></ATS_SKIP_MULT_OFFSET>
+  <ATS_CALC_OFFSET_NON_ZERO><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>348</LINE></ATS_CALC_OFFSET_NON_ZERO>
+  <ATS_APLICA_OFFSET><FILE>c:\users\joaop\Documents\Atmel Studio\7.0\AP2_\AP2_\main.asm</FILE><LINE>357</LINE></ATS_APLICA_OFFSET>
+ </LABELS>
+</ASSEMBLER_INFO>
